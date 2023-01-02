@@ -1,0 +1,14 @@
+Makefile filter=lfs diff=lfs merge=lfs -text
+math filter=lfs diff=lfs merge=lfs -text
+string filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_MIT filter=lfs diff=lfs merge=lfs -text
+networking filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+contributor-agreement.pdf filter=lfs diff=lfs merge=lfs -text
+README filter=lfs diff=lfs merge=lfs -text
+TEST_MAPPING filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+config.mk.dist filter=lfs diff=lfs merge=lfs -text
+run-arm-optimized-routines-tests-on-android.sh filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
